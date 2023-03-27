@@ -1,5 +1,0 @@
----
-title:"釣り"
-img:turi.png
-exturl:http://turi.html.xdomain.jp/
----
