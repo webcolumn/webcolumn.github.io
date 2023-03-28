@@ -1,0 +1,5 @@
+---
+title: "ゆうきケア体操 in 北海道"
+img: pikotaro.png
+exturl: http://pikotaro.html.xdomain.jp
+---

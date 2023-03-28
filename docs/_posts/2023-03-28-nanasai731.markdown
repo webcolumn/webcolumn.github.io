@@ -1,0 +1,5 @@
+---
+title: "あなたの一冊に出会える本屋"
+img: nanasai731.png
+exturl: http://nanasai731.html.xdomain.jp
+---
