@@ -1,5 +1,0 @@
----
-title: "Tropical Aquarium"
-img: kitamu0520.png
-exturl: http://kitamu0520.html.xdomain.jp
----
