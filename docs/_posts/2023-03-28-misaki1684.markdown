@@ -1,5 +1,0 @@
----
-title: "CRUISE SHIP"
-img: misaki1684.png
-exturl: http://misaki1684.html.xdomain.jp
----
