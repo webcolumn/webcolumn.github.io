@@ -1,5 +1,0 @@
----
-title: "Bar Gerbera"
-img: iwyztk.png
-exturl: http://iwyztk.html.xdomain.jp
----
