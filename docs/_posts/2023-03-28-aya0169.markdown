@@ -1,5 +1,0 @@
----
-title: "あおいろ隊サービス係.ご依頼受付中"
-img: aya0169.png
-exturl: http://aya0169.html.xdomain.jp
----
