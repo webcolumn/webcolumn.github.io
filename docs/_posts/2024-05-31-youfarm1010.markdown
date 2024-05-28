@@ -1,5 +1,0 @@
----
-title: "ユー ファーム"
-img: youfarm1010.png
-exturl: http://youfarm1010.starfree.jp
----
