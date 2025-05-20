@@ -1,0 +1,5 @@
+---
+title: "株式会社kuyuru"
+img: kuyuru.png
+exturl: https://web2025-01.nanasai-jpn.com/
+---
